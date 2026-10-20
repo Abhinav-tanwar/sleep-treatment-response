@@ -1,2 +1,3 @@
-# sleep-treatment-response
-Paired SAS inference and power analysis for sleep treatment response
+# Sleep Treatment Response
+
+Standalone SAS analysis. Data schema and provenance are documented in data/README.md.
